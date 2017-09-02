@@ -1,0 +1,6 @@
+pyramid
+six==1.10.0
+SQLAlchemy==1.1.10
+pyramid==1.8.4
+psycopg2cffi==2.7.5
+waitress==1.0.2
